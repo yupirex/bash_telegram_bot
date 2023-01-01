@@ -22,4 +22,5 @@ source ./import/handler.bash
 
 while true; do
     GetUpdate
+    # read -r
 done
